@@ -14,7 +14,7 @@ This project demonstrates the basics of sensor interfacing, analog data processi
 ## Getting Started
 
 1. Clone this repository
-2. Open `ino` file in Arduino IDE
+2. Open the `.ino` file in Arduino IDE
 3. Connect the soil moisture sensor to the Arduino Uno as per the circuit connections table above
 4. Connect the Arduino Uno to your computer via USB cable
 5. Select the correct Board (Arduino Uno) and Port in Arduino IDE
