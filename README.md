@@ -1,10 +1,26 @@
 # Real-Time Soil Moisture Monitoring and Smart Irrigation System using Arduino
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## Overview
 
 The **Real-Time Soil Moisture Monitoring and Smart Irrigation System** is an Arduino-based project designed to monitor the moisture content of soil using a soil moisture sensor. The sensor continuously measures the moisture level and sends analog data to the Arduino Uno. Based on predefined threshold values, the system classifies the soil as **Dry**, **Medium Moisture**, or **Wet** and displays the result on the Arduino Serial Monitor.
 
 This project demonstrates the basics of sensor interfacing, analog data processing, and real-time monitoring, making it suitable for smart agriculture and beginner IoT applications.
+
+---
+
+## Getting Started
+
+1. Clone this repository
+2. Open `ino` file in Arduino IDE
+3. Connect the soil moisture sensor to the Arduino Uno as per the circuit connections table above
+4. Connect the Arduino Uno to your computer via USB cable
+5. Select the correct Board (Arduino Uno) and Port in Arduino IDE
+6. Upload the code to the Arduino
+7. Open the Serial Monitor and set the baud rate to **9600**
+8. Insert the sensor into soil to view real-time moisture readings
 
 ---
 
