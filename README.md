@@ -213,3 +213,15 @@ Aspiring Software Engineer
 This project is developed for educational and learning purposes. 
 
 ---
+
+## Copyright
+
+Copyright © 2026 Shanmugapriya Kathiresan.
+
+This project is intended for educational, portfolio, and evaluation purposes only.
+
+All rights are reserved.
+
+No part of this source code may be copied, modified, redistributed, or used commercially without prior written permission from the author.
+
+
